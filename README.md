@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 [![Crowdin](https://badges.crowdin.net/e/d5f0441bf4f73af0177d34047b5b8482/localized.svg)](https://dotclear.crowdin.com/dotclear)
@@ -111,3 +112,6 @@ You can submit a pull request, or feel free to use any other way you'd prefer.
 [5]: https://dotclear.org/documentation/2.0/usage
 [6]: https://dotclear.org/documentation/2.0/admin
 [7]: https://dotclear.org/documentation/2.0/resources
+=======
+# dotclear023y
+>>>>>>> ef1e879c0a1f803ee05c47d38c83c67dc0deaf59
